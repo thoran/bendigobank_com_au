@@ -1,0 +1,13 @@
+# bendigobank_com_au/CHANGELOG
+
+## 20261116
+
+0.0.0: + BendigobankComAu::VERSION
+
+1. + lib/bendigobank_com_au.rb
+2. + BendigobankComAu::VERSION
+3. + bendigobank_com_au.gemspec
+4. + Gemfile
+5. + Rakefile
+6. + README.md
+7. + LICENSE
